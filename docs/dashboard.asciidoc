@@ -1,7 +1,7 @@
 [[dashboard]]
 == Dashboard
 
-A Kibana _dashboard_ displays a set of saved visualizations in groups that you can arrange freely. You can save a 
+A Kibana _dashboard_ displays vijay a set of saved visualizations in groups that you can arrange freely. You can save a 
 dashboard to share or reload at a later time.
 
 .Sample dashboard
